@@ -89,8 +89,8 @@ jobs:
       matrix:
         os: ['ubuntu-latest']
         micropython-version: [
-          'v1.20.0',
-          'v1.24.0',
+          'v1.22.2',
+          'v1.24.1',
           'v1.25.0-preview',
         ]
 
