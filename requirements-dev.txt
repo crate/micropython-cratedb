@@ -1,6 +1,6 @@
 poethepoet
 pyproject-fmt<3
 pytest<10
-pytest-cov<7
+pytest-cov<8
 ruff<0.15
 validate-pyproject<1
