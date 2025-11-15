@@ -68,6 +68,9 @@ omit = [
   "examples/*",
   "tests/*",
 ]
+patch = [
+  "subprocess",
+]
 
 [tool.coverage.report]
 fail_under = 0
