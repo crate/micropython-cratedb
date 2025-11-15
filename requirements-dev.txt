@@ -3,4 +3,4 @@ pyproject-fmt<3
 pytest<10
 pytest-cov<7
 ruff<0.15
-validate-pyproject<0.24
+validate-pyproject<1
