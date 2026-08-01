@@ -121,7 +121,7 @@ jobs:
 
       # https://github.com/marketplace/actions/install-micropython
       - name: Set up MicroPython ${{ matrix.micropython-version }}
-        uses: BrianPugh/install-micropython@v2
+        uses: BrianPugh/install-micropython@v3
         with:
           reference: ${{ matrix.micropython-version }}
 
