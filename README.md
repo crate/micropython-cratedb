@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is deprecated and archived.**
+> Please consider using a PostgreSQL MicroPython driver like e.g. [minipg](https://github.com/nakagami/minipg)
+> or [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) as an alternative.
+
 # micropython-cratedb - A CrateDB Driver for MicroPython
 
 [![Tests](https://github.com/crate/micropython-cratedb/actions/workflows/tests.yml/badge.svg)](https://github.com/crate/micropython-cratedb/actions/workflows/tests.yml)
